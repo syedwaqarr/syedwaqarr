@@ -26,7 +26,7 @@ I am a passionate web developer with a knack for creating user-friendly and visu
 - 📫 How to reach me: dev.syedwaqar@gmail.com
 - ⚡ Fun fact: "alert('Hello, world!')" is the shortest program that can make your browser talk.
 
-## Stats 📊
+## 📊 Stats
 
 ![syedwaqarr's Stats](https://github-readme-stats.vercel.app/api?username=syedwaqarr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![syedwaqarr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedwaqarr&theme=tokyonight&hide_border=true)
