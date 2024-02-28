@@ -30,6 +30,4 @@ I am a passionate web developer with a knack for creating user-friendly and visu
 
 ![syedwaqarr's Stats](https://github-readme-stats.vercel.app/api?username=syedwaqarr&theme=dark&show_icons=true&hide_border=true&count_private=true)&nbsp;
 
-![syedwaqarr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedwaqarr&theme=dark&hide_border=true)
-
-![syedwaqarr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedwaqarr&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![syedwaqarr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedwaqarr&theme=dark&hide_border=true)&nbsp;
