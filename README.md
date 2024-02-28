@@ -26,21 +26,10 @@ I am a passionate web developer with a knack for creating user-friendly and visu
 - 📫 How to reach me: dev.syedwaqar@gmail.com
 - ⚡ Fun fact: "alert('Hello, world!')" is the shortest program that can make your browser talk.
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=350 src="https://github-readme-streak-stats-syedwaqarr.vercel.app/?user=syedwaqarr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=350 src="https://github-readme-stats-syedwaqarr.vercel.app/api?username=syedwaqarr&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-syedwaqarr.vercel.app/api/top-langs/?username=syedwaqarr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+## Stats 📊
 
-<br/><br/>
+![syedwaqarr's Stats](https://github-readme-stats.vercel.app/api?username=syedwaqarr&theme=dark&show_icons=true&hide_border=true&count_private=true)&nbsp;
 
-<hr/>
+![syedwaqarr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedwaqarr&theme=dark&hide_border=true)
 
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+![syedwaqarr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedwaqarr&theme=dark&show_icons=true&hide_border=true&layout=compact)
