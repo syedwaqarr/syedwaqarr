@@ -1,6 +1,5 @@
 <h2> Hi, I'm Waqar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-syedwaqarr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syedwaqarr/)](https://www.linkedin.com/in/syedwaqarr/) 
 [![Gmail Badge](https://img.shields.io/badge/-dev.syedwaqar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.syedwaqar@gmail.com)](mailto:dev.syedwaqar@gmail.com)
 
 I am a passionate web developer with a knack for creating user-friendly and visually appealing web experiences. Whether you're looking for a developer with a passion for design or a problem-solver who can tackle complex projects, I'm eager to connect and discuss how I can support your vision.
